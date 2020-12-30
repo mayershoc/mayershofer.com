@@ -6,8 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Christopher Mayershofer
+description: Robotics, AI & ML for Logistics
+logo: ./images/Profilbild_1024x1024_circ_comp.png
 github_username: mayershoc
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "mayershofer.com"
@@ -39,8 +40,9 @@ baseurl: "/mayershofer.com" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: CMayershofer
+    github: mayershoc
+    linkedin: christopher-mayershofer-780b5411a
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -66,8 +68,8 @@ exclude:
   - Makefile
 
 # this setting allows you to keep pages organized in the _pages folder
-include:
-  - _pages
+#include:
+#  - _pages
 
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
